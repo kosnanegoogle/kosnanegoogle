@@ -28,15 +28,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
+    srcset="items/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
+    srcset="items/breakout-light.svg"
   />
   <img
     alt="Breakout Game"
-    src="images/breakout-light.svg"
+    src="items/breakout-light.svg"
     width="600"
   />
 </picture>
