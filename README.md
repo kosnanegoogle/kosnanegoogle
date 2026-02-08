@@ -1,3 +1,20 @@
+## 👋 About Me
+
+Hello!  
+I am a **Computer Engineering student** 💻 with a strong interest in technology. I love working with **Linux** 🐧 and exploring everything related to **infrastructure** and **system administration** 🛠️.
+
+I enjoy learning new things every day, applying what I learn, and **documenting my progress** to share with others 📚✍️.
+
+🔥 My main interests include:
+- 🐧 **Linux**
+- 🌐 **Networking and Infrastructure**
+- 🛠️ **System Administration**
+- 🔷 **Cisco technologies**
+- 📘 Continuous learning and sharing knowledge
+
+I'm always eager to improve my skills, take on new challenges, and build useful things in the world of tech 🚀✨.
+
+
 <p align="center">
 
 <img src="items/c.png" width="40" height="40" alt="c" />
