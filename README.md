@@ -39,6 +39,9 @@ I'm always eager to improve my skills, take on new challenges, and build useful 
 <img src="items/wordpress.png" width="40" height="40" alt="wordpress" />
 <img src="items/ceh.png" width="40" height="40" alt="CEH" />
 <img src="items/CHFI.png" width="40" height="40" alt="CHFI" />
+<img src="items/simple-icons--cisco.svg" width="40" alt="Cisco" />
+
+
 
 </p>
 
