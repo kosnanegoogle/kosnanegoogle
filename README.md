@@ -25,18 +25,11 @@
 
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="items/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="items/breakout-light.svg"
-  />
-  <img
-    alt="Breakout Game"
-    src="items/breakout-light.svg"
-    width="600"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="items/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="items/breakout-light.svg" />
+    <img alt="Breakout Game" src="items/breakout-light.svg" width="600" />
+  </picture>
+</p>
+
